@@ -3,7 +3,7 @@
 - autor: Ing. Tomáš Bula
 - email: tomas.bula@post.cz
 - GitHub: https://github.com/tomasbula
-- vytvořeno: 04/2026
+- vytvořeno: 05/2026
 
 ## Popis projektu
 Tento projekt slouží jako převodník měn dle aktuálních kurzů ČNB.
