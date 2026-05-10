@@ -12,7 +12,7 @@ Odkaz ZDE:
 https://www.cnb.cz/cs/financni-trhy/devizovy-trh/kurzy-devizoveho-trhu/kurzy-devizoveho-trhu/
 
 ## Instalace knihoven
-Knihovny, které jsou použity v kódu jsou ulozžené v souboru requirements.txt. Pro instalaci je doporučeno použít nové virtuální prostředí a s nainstalovaným manažerem spustit následovně:
+Knihovny, které jsou použity v kódu jsou uložené v souboru requirements.txt. Pro instalaci je doporučeno použít nové virtuální prostředí a s nainstalovaným manažerem spustit následovně:
 
 <pre>
 $ pip3 --version                        # ověření verze manažeru
